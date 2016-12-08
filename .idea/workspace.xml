@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ab20c41-37f8-4aca-870c-158dc60341c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw-resume/.idea/workspace.xml" afterPath="$PROJECT_DIR$/hw-resume/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hw-resume/index.html" afterPath="$PROJECT_DIR$/hw-resume/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -212,15 +210,15 @@
       <workItem from="1481139891648" duration="26000" />
       <workItem from="1481139983354" duration="1426000" />
       <workItem from="1481150547843" duration="236000" />
-      <workItem from="1481204745266" duration="48000" />
+      <workItem from="1481204745266" duration="650000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1736000" />
+    <option name="totallyTimeSpent" value="2338000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="46" width="1346" height="678" extended-state="0" />
+    <frame x="81" y="46" width="1346" height="678" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
