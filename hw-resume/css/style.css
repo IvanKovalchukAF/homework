@@ -1,0 +1,45 @@
+body{
+    background: #d1d1d1;
+}
+
+table{
+    font-size: 20px;
+    font-family: "Arial";
+}
+
+table.resume tr td:first-child{
+    text-align: center;
+    background: #adadad;
+    }
+
+table.resume tr td ul li{
+    padding:10px; margin:5px;
+}
+
+
+h1{
+    font-size: 60px;
+    text-indent: 60px;
+    color: #2a5698;
+}
+
+.address, .email{
+    text-indent: 35px;
+    font-size: 25px;
+    color: rgba(10, 27, 45, 0.72);
+    margin: 20px;
+    margin-left: 200px;
+}
+
+td {
+    padding: 10px;
+    padding-left: 20px;
+}
+
+p{
+    padding-left: 140px;
+}
+
+div.social{
+    margin-left: 200px;
+}
