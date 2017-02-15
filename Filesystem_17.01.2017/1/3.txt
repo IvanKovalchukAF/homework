@@ -1,0 +1,7 @@
+что хорошо  
+ - different words 
+ только привет в как первом файле Создать новый файл содержащий строки которые встречаются
+  - same words 
+ только в
+  - the words are repeated in two files more then two times 
+ 
