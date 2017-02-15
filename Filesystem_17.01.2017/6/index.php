@@ -58,8 +58,7 @@ function get_files($dir) {
      return $arrFiles;
 }
 
-//$path = "./";
-$path = "../5";
+$path = "./";
 $get_files = (get_files($path));
 ?>
 </div>
